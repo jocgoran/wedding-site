@@ -1,0 +1,5 @@
+<dm:mount xmlns:dm="http://purl.org/NET/webdav/mount">
+  <dm:url>http://localhost/wedding/main.php?g2_controller=webdav.WebDav&amp;g2_authToken=169ad44cfaa2</dm:url>
+  <dm:open>sunday/</dm:open>
+  <dm:username>london</dm:username>
+</dm:mount>

@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\PublishingWizard\InternetPhotoPrinting\Providers\localhost]
+"displayname"="30.5 - 1.6.2008, London at localhost"
+"description"="Publish Your Photos and Movies to 30.5 - 1.6.2008, London"
+"href"="http://localhost/wedding/main.php?g2_view=publishxp.PublishXpLogin"
+"icon"="http://localhost/wedding/favicon.ico"

@@ -1,0 +1,16 @@
+
+.updatesNavigator {
+    display: block;
+    margin: 1em;
+}
+.updatesNavigator div {
+    display: inline;
+}
+.updatesNavigator a {
+    padding: 0 0.5em;
+}
+
+.giRatingAverageContainer {
+    margin: auto;
+}
+
